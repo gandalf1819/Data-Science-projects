@@ -17,3 +17,19 @@ Link for dataset: [Iris dataset](https://archive.ics.uci.edu/ml/datasets/Iris)
 3. Petal length in cm
 4. Petal width in cm
 5. Class: Iris Setosa | Iris Versicolour | Iris Virginica
+
+## Data Analysis Process
+
+![Data Analysis Process](https://github.com/gandalf1819/Data-Science-projects/blob/master/iris/Data-analysis-process.png)
+
+### Scatter plot
+
+![Scatter Plot](https://github.com/gandalf1819/Data-Science-projects/blob/master/iris/Scatter-plot.png)
+
+### Box plot
+
+![Box Plot](https://github.com/gandalf1819/Data-Science-projects/blob/master/iris/Box%20plot.png)
+
+### Histogram
+
+![Histogram](https://github.com/gandalf1819/Data-Science-projects/blob/master/iris/Histogram.png)
